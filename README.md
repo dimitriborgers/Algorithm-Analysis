@@ -11,7 +11,7 @@ Third and final stage of implementing Prof. Ross's optimizing algorithm for data
 
 ### Run IPC, Branch Misprediction, and Elapsed time 
 -----
-  `make`
+  `make`\
   `./branch_mispred arg1 arg2 arg3 arg4`
 
 ### Clean
