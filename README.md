@@ -1,4 +1,4 @@
-# Stage3
+# Algorithm Analysis
 CS 4112
 
 ### Function
